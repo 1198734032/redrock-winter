@@ -1,0 +1,34 @@
+{
+    "personInformation": {
+        "person1": {
+            "name": "TYH",
+            "phone": 18723348847,
+            "psw": "123456"
+        },
+        "person2": {
+            "name": "tyh",
+            "psw": "1234567tyh",
+            "phone": 12345567890
+        },
+        "person3": {
+            "name": "123",
+            "psw": "abcdefgh",
+            "phone": 18723348846
+        },
+        "person4": {
+            "name": "hahaha",
+            "psw": "123456",
+            "phone": 11111111111
+        },
+        "person5": {
+            "name": "TY",
+            "psw": "123456",
+            "phone": 1872334884
+        },
+        "person6": {
+            "name": "123",
+            "psw": "123456",
+            "phone": 123
+        }
+    }
+}
